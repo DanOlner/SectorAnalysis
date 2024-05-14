@@ -30,6 +30,7 @@ options(scipen = 99)
 
 
 ```{r}
+#| fig-width: 10
 #ONS link to the Excel sheets: https://www.ons.gov.uk/economy/grossdomesticproductgdp/datasets/regionalgrossdomesticproductallnutslevelregions
 #Data folder name of downloaded Excel sheets (from which the CSVs below are exported)
 #regionalgrossdomesticproductgdpallitlregions.xlsx
